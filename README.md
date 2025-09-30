@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @grcevicbmia
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Python, Tableau
+- 👋 Hi, I’m Mia Grcevic
+- 👀 I’m interested in Financial Analysis
+- 🌱 I’m currently learning SQL, Python, Tableau, R
 
 <!---
 grcevicbmia/grcevicbmia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
